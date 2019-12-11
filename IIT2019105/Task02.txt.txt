@@ -1,0 +1,11 @@
+Harshdeep Singh Pruthi( IIT2019105 )
+
+1. FOSS
+Before the workshop, I had no exact idea about what FOSS is all about. But after attending the workshop and knowing what I will be doing during these vacations, I expect myself to get acquainted with basics of Git and the command lines.
+
+2. WEBD
+I expect that by the end of these vacations I would have gone through the basics and intermediates of backend and frontend and would have a clear idea about what I have to follow to become a full stack developer.
+
+3. AI
+AI really fascinates me, and all I expect is toget acquainted with ML and know what I need to follow in future if I want to learn more about it.
+
